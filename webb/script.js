@@ -78,7 +78,7 @@ function waitAndResponce(inputText) {
             sendTextMessage("<span class='sk'>third year in university</span>");
             break;
         case "address":
-            sendTextMessage("<span class='sk'>alger</span>");
+            sendTextMessage("<span class='sk'>algiers</span>");
             break;
         case "contact":
             sendTextMessage("<span class='sk'>imanemaroua@gmail.com</span>");
